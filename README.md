@@ -5,7 +5,7 @@
 Initial iteration of the dashboard, as part of Codebasics Bootcamp: [**BI 360 Version 1**](https://app.powerbi.com/view?r=eyJrIjoiNjcyMDk2ODUtZjBjMy00M2JhLTljNmEtYzVjZGI1YzAwYjEzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
-Re-designed dashboard [**Live Dashboard - BI 360 Version 2**](https://app.powerbi.com/view?r=eyJrIjoiYTZmNWEyNGEtZTUzOS00MzhlLWI4ZDQtZTdjMzI4ZTU4YWIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Enhanced dashboard 🚀 [**Live Dashboard - BI 360 Version 2**](https://app.powerbi.com/view?r=eyJrIjoiYTZmNWEyNGEtZTUzOS00MzhlLWI4ZDQtZTdjMzI4ZTU4YWIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) ***(Improved design, usability, and interpretation)***
 
 
 
@@ -20,14 +20,6 @@ To stay competitive and enable faster strategic decision-making, AtliQ decided t
 
 ---
 
-## 💡 How to Explore this Project
-
-Scroll through this README to explore insights, dashboard structure, and metrics.  
-
-
-If you’d prefer to skip ahead and see a snapshot of the dashboard directly, jump down to the **Solution** section below. 
-
----
 
 ## 📝 Overview
 
